@@ -1,3 +1,6 @@
 [submodule "reference/cuda-mode-lectures"]
 	path = reference/cuda-mode-lectures
 	url = git@github.com:AoyuQC/cuda-mode-lectures.git
+[submodule "reference/how-to-optim-algorithm-in-cuda"]
+	path = reference/how-to-optim-algorithm-in-cuda
+	url = git@github.com:AoyuQC/how-to-optim-algorithm-in-cuda.git
