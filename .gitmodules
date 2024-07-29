@@ -1,0 +1,3 @@
+[submodule "reference/cuda-mode-lectures"]
+	path = reference/cuda-mode-lectures
+	url = git@github.com:AoyuQC/cuda-mode-lectures.git
